@@ -1,5 +1,5 @@
-👋 Hi, I’m [Vri](https://vrifox.cc)\
-👀 I’m mainly interested in developing, administrating/hosting, translating and ui/ux\
-🌱 I’m currently learning [JavaScript](https://exercism.org/profiles/vrifox)\
-💞️ I’m looking to collaborate nicely on open-source projects ^_^\
-📌 My repositories are mainly on [my gitea instance](https://code.cozy.town/vri)
+👋 Hi, I am [Vri](https://vrifox.cc)\
+👀 My interests are in developing, administrating/hosting, translating and creating/improving UI/UX\
+🌱 Currently I learn [JavaScript and Ruby](https://exercism.org/profiles/vrifox)\
+💞️ I try to help open source projects ^_^\
+📌 My repositories are mainly on [my forgejo instance](https://code.cozy.town/vri)
